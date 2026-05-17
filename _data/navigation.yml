@@ -1,0 +1,13 @@
+# Edit this file to update the nav — no HTML needed.
+
+links:
+  - label: Work
+    url: "/#work"
+  - label: Research
+    url: /research/
+  - label: Writing
+    url: /writing/
+  - label: About
+    url: /about/
+  - label: Contact
+    url: "mailto:hello@minhtam.space"

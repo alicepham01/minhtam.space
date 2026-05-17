@@ -1,0 +1,107 @@
+---
+layout: default
+---
+
+<!-- ── HERO ────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-inner">
+    <p class="hero-tag">Urban Researcher &amp; GIS Specialist — Việt Nam</p>
+    <h1 class="hero-title">
+      <span class="row"><span>URBAN</span></span>
+      <span class="row"><span>RHYTHMS</span></span>
+    </h1>
+    <p class="hero-sub">
+      Mapping cities, tracing systems, building tools for spatial
+      understanding — working at the edge of data and place.
+    </p>
+  </div>
+  <div class="hero-bottom">
+    <span class="hero-coords">10°58′N 106°51′E · Biên Hòa, Đồng Nai</span>
+    <span class="hero-scroll">Scroll to work</span>
+  </div>
+</section>
+
+<!-- ── WORK ────────────────────────────────────────────────────── -->
+<section id="work" style="padding-top: 72px;">
+  <p class="section-label">Selected Work</p>
+
+  <div class="filter-bar">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="design">Design</button>
+    <button class="filter-btn" data-filter="research">Research</button>
+    <button class="filter-btn" data-filter="writing">Writing</button>
+  </div>
+
+  <div class="grid-wrap">
+    <div class="projects-grid" id="grid">
+
+      {% for project in site.data.projects %}
+      <div class="card" data-cat="{{ project.category }}">
+
+        {% if project.image and project.image != "" %}
+          <!-- Real photo -->
+          <div class="card-bg">
+            <img src="{{ project.image | prepend: '/assets/images/projects/' | relative_url }}"
+                 alt="{{ project.title }}">
+          </div>
+        {% else %}
+          <!-- Gradient placeholder — remove once you add a photo -->
+          <div class="card-bg" style="background: linear-gradient(145deg,#101828 0%,#060d18 100%);"></div>
+        {% endif %}
+
+        <a href="{{ project.link }}" class="card-label">
+          <div class="card-label-title">{{ project.title }}</div>
+          <div class="card-label-meta">{{ project.category | capitalize }} · {{ project.year }}</div>
+        </a>
+
+        <a href="{{ project.link }}" class="card-overlay">
+          <span class="card-cat">{{ project.category | capitalize }}</span>
+          <h3 class="card-title">{{ project.title }}</h3>
+          <p class="card-desc">{{ project.description }}</p>
+        </a>
+
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="show-more-wrap">
+    <button class="show-more-btn" id="showMoreBtn">Show More</button>
+  </div>
+</section>
+
+<!-- ── ABOUT ────────────────────────────────────────────────────── -->
+<section class="about" id="about">
+  <div class="about-sidebar">
+    <p>About</p>
+    <div class="side-item">
+      <strong>Based in</strong>Biên Hòa, Đồng Nai
+    </div>
+    <div class="side-item" style="margin-top:16px;">
+      <strong>Expertise</strong>Urban Research · GIS · Spatial Data
+    </div>
+    <div class="side-item" style="margin-top:16px;">
+      <strong>Affiliation</strong>Your Institution
+    </div>
+  </div>
+
+  <div class="about-body">
+    <p>
+      I'm Minh Tam — an urban researcher and GIS specialist working at the
+      intersection of spatial data, city systems, and design. I build tools
+      and conduct research that makes complex urban dynamics legible.
+    </p>
+    <p>
+      My work spans flood risk, mobility, informal urbanism, and the
+      visual communication of geographic data. I believe maps are arguments —
+      and I try to make honest ones.
+    </p>
+    <div class="about-links">
+      <a href="mailto:{{ site.email }}">Email</a>
+      {% if site.github %}<a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
+      {% if site.linkedin %}<a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+      <a href="/cv.pdf" target="_blank">CV ↗</a>
+    </div>
+  </div>
+</section>

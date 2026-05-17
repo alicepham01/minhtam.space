@@ -1,0 +1,55 @@
+# ─────────────────────────────────────────────────────────────────
+# PROJECTS — add a new block to add a new card to the homepage grid
+# category: design | research | writing
+# image: path relative to /assets/images/projects/
+#         leave blank to use a gradient placeholder
+# link: URL for the card click (external or internal page)
+# ─────────────────────────────────────────────────────────────────
+
+- title: Urban Mobility Dashboard
+  category: design
+  year: 2024
+  description: Interactive GIS interface for transit pattern analysis across city districts.
+  image: mobility-dashboard.jpg
+  link: "#"
+  featured: true
+
+- title: Mekong Delta Flood Risk
+  category: research
+  year: 2024
+  description: Spatial modeling of seasonal inundation and displacement risk across the delta region.
+  image: mekong-flood.jpg
+  link: "#"
+  featured: true
+
+- title: Why Maps Lie
+  category: writing
+  year: 2023
+  description: On projection, power, and the politics of cartographic representation.
+  image:
+  link: /writing/2023/why-maps-lie/
+  featured: true
+
+- title: HCM City Growth Patterns
+  category: research
+  year: 2023
+  description: Thirty years of urban expansion visualized through multi-temporal satellite imagery.
+  image: hcm-growth.jpg
+  link: "#"
+  featured: true
+
+- title: Green Corridor Mapping Tool
+  category: design
+  year: 2023
+  description: Open-source web GIS tool for urban greenway planning and connectivity analysis.
+  image:
+  link: "#"
+  featured: true
+
+- title: Field Notes from the Delta
+  category: writing
+  year: 2023
+  description: Observations on informality, water, and resilience in the Vietnamese lowlands.
+  image:
+  link: /writing/2023/field-notes-delta/
+  featured: false

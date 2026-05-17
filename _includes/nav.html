@@ -1,0 +1,8 @@
+<nav>
+  <a href="{{ '/' | relative_url }}" class="logo">URBAN<em>RHYTHMS</em></a>
+  <ul class="nav-links">
+    {% for link in site.data.navigation.links %}
+    <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

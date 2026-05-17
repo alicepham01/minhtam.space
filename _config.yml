@@ -1,0 +1,26 @@
+title: Urban Rhythms
+tagline: Urban Researcher & GIS Specialist
+description: Mapping cities, tracing systems, building tools for spatial understanding.
+url: "https://minhtam.space"
+author: Minh Tam
+email: hello@minhtam.space
+
+# Social (leave blank to hide)
+github: minhtam       # your GitHub username
+linkedin: minhtam     # your LinkedIn slug
+
+# Build
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 9
+paginate_path: "/writing/page:num/"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules

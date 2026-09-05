@@ -20,6 +20,10 @@ image:
 
 [Major power outage causes chaos in Spain and Portugal](https://www.theguardian.com/world/2025/apr/28/spain-portugal-power-outage).
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;">
+  <iframe src="https://www.youtube.com/embed/z2InJs2vdsE" title="Major power outage causes chaos in Spain and Portugal" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 Source: [https://www.theguardian.com/world/2025/apr/28/spain-portugal-power-outage](https://www.theguardian.com/world/2025/apr/28/spain-portugal-power-outage)
 
 
@@ -31,7 +35,23 @@ Source: [https://www.theguardian.com/world/2025/apr/28/spain-portugal-power-outa
 
 ### Enjoying
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10-hour blackout in Spain. Chaos in the streets!! <a href="https://t.co/jMyPN5jzyu">pic.twitter.com/jMyPN5jzyu</a></p>&mdash; Wholesome Side of 𝕏 (@itsme_urstruly) <a href="https://twitter.com/itsme_urstruly/status/1917507781374210526?ref_src=twsrc%5Etfw">April 30, 2025</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Massive power blackout in Spain and Portugal! No internet, payment are off and flights are cancelled.<br><br>Media: Chaos! People are in Panic!<br><br>What really happened: We just took blankets, beer and had a great time all together. <a href="https://t.co/VQsxXexmEc">pic.twitter.com/VQsxXexmEc</a></p>&mdash; Alex Socoloff (@socoloffalex) <a href="https://twitter.com/socoloffalex/status/1916886930429559085?ref_src=twsrc%5Etfw">April 28, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 If you were in Europe in the past few weeks, you might have experienced a strange situation due to a massive power outage. *The Guardian* featured the headline: “No one knew what to do’: Power cuts bring chaos, connection and re-evaluation of digital dependency,” highlighting how people were disrupted in their daily routines, which heavily depend on technology. However, I also noticed a contrasting reaction on social media, some people genuinely enjoyed the brief period of disconnection. It reminded me of a scene from my favorite Japanese movie, *Survival Family* (2017). The story follows a family trying to survive a long journey from Tokyo back to their hometown after a nationwide blackout. With all modern conveniences suddenly gone, they had no idea when the electricity would return.
+
+<div style="display:flex;gap:8px;flex-wrap:wrap;margin:1.5em 0;">
+  <figure style="flex:1 1 300px;margin:0;">
+    <img src="/assets/images/smart-city-part-1/7a5f47_81004d8157134462bdef2bf9f9f781ad~mv2.png" alt="Before: a family scavenging from abandoned groceries" style="width:100%;height:auto;display:block;">
+    <figcaption style="text-align:center;font-size:0.85em;opacity:0.7;">Before</figcaption>
+  </figure>
+  <figure style="flex:1 1 300px;margin:0;">
+    <img src="/assets/images/smart-city-part-1/7a5f47_9a4f6fc477454312ba85a383508df875~mv2.png" alt="After: a family eating a handmade meal from natural ingredients" style="width:100%;height:auto;display:block;">
+    <figcaption style="text-align:center;font-size:0.85em;opacity:0.7;">After</figcaption>
+  </figure>
+</div>
 
 *The offensive scenes of two families who strive throughout the power cut-offs. On the left-hand side are the main characters (I call them the "unskilled family") who are trying to survive with items taken from abandoned groceries. On the other side, a family is eating their handmade dishes from natural ingredients. Just look at the opposite feelings on their faces, and we can easily imagine what will happen in the rest of the movie.*
 
@@ -46,6 +66,10 @@ Since the early 2000s, many cities have begun developing smart city models, urba
 I do not want the out to criticize the smart development, but these projects continue to move forward and offer many benefits as long as major disruptions do not occur.  I feel lucky to have had opportunities to talk with brilliant colleagues from a wide range of disciplines. These conversations have inspired me to think more critically about the future of urban living. Last month, I was on my way to the Asia Smart City Expo 2025, I saw a banner with the slogan: “...Thành phố Hồ Chí Minh phấn đấu trở thành thành phố thông minh...” (“Ho Chi Minh City strives to become a smart city”). I believe this is a great initiative, but why not "beyond the smart city"? These naive questions are my own momentum to push me find and write something about this topic. In the first part, I initially focus on analyze the strategic vision of smart city over the practices and apply policy framework
 
 ### *Smart city agenda*
+
+<div style="max-width:650px;margin:1.5em auto;">
+  <iframe src="https://public.tableau.com/views/VNsmartcityagenda/Story?:showVizHome=no&:embed=true" width="100%" height="887" style="border:none;max-width:100%;" allowfullscreen></iframe>
+</div>
 
 ***The "Messy Ambitious" Leap Forward.***
 

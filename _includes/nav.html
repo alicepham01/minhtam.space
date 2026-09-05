@@ -2,8 +2,11 @@
   <a href="{{ '/' | relative_url }}" class="logo">URBAN<em>RHYTHMS</em></a>
   <ul class="nav-links">
     {% for link in site.data.navigation.links %}
-    {% assign is_external = link.url contains 'mailto:' or link.url contains '://' %}
-    <li><a href="{% if is_external %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}">{{ link.label }}</a></li>
+    {% if link.url contains 'mailto:' or link.url contains '://' %}
+    <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% else %}
+    <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+    {% endif %}
     {% endfor %}
   </ul>
 </nav>

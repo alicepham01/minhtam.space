@@ -49,7 +49,11 @@ layout: default
           <div class="card-bg" style="background: linear-gradient(145deg,#101828 0%,#060d18 100%);"></div>
         {% endif %}
 
-        {% assign link_is_external = project.link contains '://' or project.link == '#' %}
+        {% if project.link contains '://' or project.link == '#' %}
+          {% assign link_is_external = true %}
+        {% else %}
+          {% assign link_is_external = false %}
+        {% endif %}
         <a href="{% if link_is_external %}{{ project.link }}{% else %}{{ project.link | relative_url }}{% endif %}" class="card-label">
           <div class="card-label-title">{{ project.title }}</div>
           <div class="card-label-meta">{{ project.category | capitalize }} · {{ project.year }}</div>

@@ -49,12 +49,13 @@ layout: default
           <div class="card-bg" style="background: linear-gradient(145deg,#101828 0%,#060d18 100%);"></div>
         {% endif %}
 
-        <a href="{{ project.link }}" class="card-label">
+        {% assign link_is_external = project.link contains '://' or project.link == '#' %}
+        <a href="{% if link_is_external %}{{ project.link }}{% else %}{{ project.link | relative_url }}{% endif %}" class="card-label">
           <div class="card-label-title">{{ project.title }}</div>
           <div class="card-label-meta">{{ project.category | capitalize }} · {{ project.year }}</div>
         </a>
 
-        <a href="{{ project.link }}" class="card-overlay">
+        <a href="{% if link_is_external %}{{ project.link }}{% else %}{{ project.link | relative_url }}{% endif %}" class="card-overlay">
           <span class="card-cat">{{ project.category | capitalize }}</span>
           <h3 class="card-title">{{ project.title }}</h3>
           <p class="card-desc">{{ project.description }}</p>
@@ -101,7 +102,7 @@ layout: default
       <a href="mailto:{{ site.email }}">Email</a>
       {% if site.github %}<a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
       {% if site.linkedin %}<a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
-      <a href="/cv.pdf" target="_blank">CV ↗</a>
+      <a href="{{ '/assets/cv/Pham-Minh-Tam-CV.pdf' | relative_url }}" target="_blank">CV ↗</a>
     </div>
   </div>
 </section>

@@ -1,6 +1,6 @@
 ---
 category: research
-date: 2025-03-15
+date: 2026-10-11
 description: An overview of bus services, stop infrastructure, and the
   passenger experience in Ho Chi Minh City's central business district.
 layout: post
@@ -170,7 +170,7 @@ sheltered waiting area.
 **Figure 1.** Distribution of bus stops and district locations (left),
 and land use (right) in HCMC's CBD.
 
-![Figure 1: Distribution of bus stops and land use in HCMC's CBD](assets/images/hcmc-travel-mode-choice/w2_f1.avif)
+![Figure 1: Distribution of bus stops and land use in HCMC's CBD](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f1.avif)
 
 *Existing-conditions survey in HCMC's CBD.*
 
@@ -178,7 +178,7 @@ and land use (right) in HCMC's CBD.
 transportation hierarchy, system, and bus-stop locations in the CBD
 (right).
 
-![Figure 2: Bus-stop types, locations, and transportation hierarchy](assets/images/hcmc-travel-mode-choice/w2_f2.avif)
+![Figure 2: Bus-stop types, locations, and transportation hierarchy](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f2.avif)
 
 Within the CBD, the study identifies 150 bus stops and eight information
 signboards accessible to public transport passengers. These include 44
@@ -207,7 +207,7 @@ Monday through Friday (Ngoc An, 2019).
 
 **Figure 3.** Bus-stop surroundings.
 
-![Figure 3: Bus-stop surroundings](assets/images/hcmc-travel-mode-choice/w2_f3.avif)
+![Figure 3: Bus-stop surroundings](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f3.avif)
 
 The areas around bus stops in HCMC's CBD are often busy, with
 pedestrians moving alongside street vendors and motorbikes passing
@@ -221,7 +221,7 @@ sidewalks sit beneath leafy trees.
 
 **Figure 4. Lighting.**
 
-![Figure 4: Lighting at bus stops](assets/images/hcmc-travel-mode-choice/w2_f4.avif)
+![Figure 4: Lighting at bus stops](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f4.avif)
 
 Most bus shelters in HCMC's CBD appear to have adequate lighting, with
 one or more fixtures providing illumination for passengers travelling at
@@ -230,7 +230,7 @@ bulbs have burned out or fixtures are not bright enough.
 
 **Figure 5. CCTV cameras.**
 
-![Figure 5: CCTV cameras at bus shelters](assets/images/hcmc-travel-mode-choice/w2_f5.avif)
+![Figure 5: CCTV cameras at bus shelters](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f5.avif)
 
 Some renovated bus shelters have security cameras mounted on their roofs
 and directed toward the station area. These cameras may deter vandalism
@@ -239,7 +239,7 @@ surveillance is limited and absent from some locations.
 
 **Figure 6. Benches.**
 
-![Figure 6: Benches at bus stops](assets/images/hcmc-travel-mode-choice/w2_f6.avif)
+![Figure 6: Benches at bus stops](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f6.avif)
 
 Bench seating is provided at various bus stops across HCMC's CBD,
 offering places to rest while waiting for transport. The study reports
@@ -248,7 +248,7 @@ often brightly coloured, but some are worn out or missing.
 
 **Figure 7. Information boards displaying bus schedules.**
 
-![Figure 7: Information boards displaying bus schedules](assets/images/hcmc-travel-mode-choice/w2_f7.avif)
+![Figure 7: Information boards displaying bus schedules](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f7.avif)
 
 Access to timely and reliable schedule information helps passengers plan
 journeys. The study reports that most bus shelters (24.6%) provide a
@@ -258,7 +258,7 @@ some are inactive.
 
 **Figure 8. Bus information boards.**
 
-![Figure 8: Bus information boards](assets/images/hcmc-travel-mode-choice/w2_f8.avif)
+![Figure 8: Bus information boards](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f8.avif)
 
 Some information boards may contain inconsistencies or inaccuracies, so
 passengers should not rely on them as the sole source for trip planning.
@@ -268,7 +268,7 @@ always easy to understand or use.
 
 **Figure 9. Roofs.**
 
-![Figure 9: Roofs at bus stops](assets/images/hcmc-travel-mode-choice/w2_f9.avif)
+![Figure 9: Roofs at bus stops](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f9.avif)
 
 Some bus stops have damaged roofs or no roof at all, including some
 pillar stops and information signboards. Uncovered stops account for
@@ -279,12 +279,12 @@ pillar stops and information signboards. Uncovered stops account for
 **Figure 10.** Bus appearance, departure timetable and free-transfer
 route table, boarding door, and exit door (left to right).
 
-![Figure 10: Bus appearance, timetable, transfer information, boarding door, and exit door](assets/images/hcmc-travel-mode-choice/w2_f10.avif)
+![Figure 10: Bus appearance, timetable, transfer information, boarding door, and exit door](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f10.avif)
 
 **Figure 11.** Interior space, stop-request button, emergency hammer,
 and camera (left to right).
 
-![Figure 11: Interior space and safety equipment on a bus](assets/images/hcmc-travel-mode-choice/w2_f11.avif)
+![Figure 11: Interior space and safety equipment on a bus](https://github.com/alicepham01/minhtam.space/blob/main/assets/images/hcmc-travel-mode-choice/w2_f11.avif)
 
 Buses are equipped with modern passenger-support facilities, including
 air conditioning, stop-request buttons, and stop-announcement speakers,

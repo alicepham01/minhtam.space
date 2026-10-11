@@ -1,6 +1,6 @@
 ---
 category: research
-date: 2026-10-11
+date: 2025-03-15
 description: An overview of bus services, stop infrastructure, and the
   passenger experience in Ho Chi Minh City's central business district.
 layout: post
@@ -10,7 +10,7 @@ tags:
 - Ho Chi Minh City
 - urban mobility
 - GIS
-title: Bus Service and Traffic Environment in Ho Chi Minh City's CBD
+title: Can spatial experiences and perception affect an individuals' public mode choice? (Part 1_Spatial analysis)
 ---
 
 **Co-writer:** Vu Quynh Ai Nhu

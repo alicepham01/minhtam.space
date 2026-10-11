@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Travel Mode Choice Behaviour in Ho Chi Minh City"
+title: Theory and relationship between mode choice behaviour and spatial experience, perception
 date: 2024-08-10
 category: research
 description: An ongoing study of why Ho Chi Minh City residents choose private vehicles over public transport, and a smart bus shelter concept proposed as a response.

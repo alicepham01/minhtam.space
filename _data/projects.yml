@@ -11,29 +11,5 @@
   year: 2025
   description: 
   image:
-  link: /writing/2025/Can spatial experiences and perception affect an individuals' public mode choice? (Part 1_Spatial analysis)/
+  link: /writing/2025/hcmc_bus_service_traffic_environment/
   featured: true
-
-- title: HCM City Growth Patterns
-  category: research
-  year: 2023
-  description: Thirty years of urban expansion visualized through multi-temporal satellite imagery.
-  image: hcm-growth.jpg
-  link: "#"
-  featured: true
-
-- title: Green Corridor Mapping Tool
-  category: design
-  year: 2023
-  description: Open-source web GIS tool for urban greenway planning and connectivity analysis.
-  image:
-  link: "#"
-  featured: true
-
-- title: Field Notes from the Delta
-  category: writing
-  year: 2023
-  description: Observations on informality, water, and resilience in the Vietnamese lowlands.
-  image:
-  link: /writing/2023/field-notes-delta/
-  featured: false

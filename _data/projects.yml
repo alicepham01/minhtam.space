@@ -6,28 +6,12 @@
 # link: URL for the card click (external or internal page)
 # ─────────────────────────────────────────────────────────────────
 
-- title: Urban Mobility Dashboard
-  category: design
-  year: 2024
-  description: Interactive GIS interface for transit pattern analysis across city districts.
-  image: mobility-dashboard.jpg
-  link: "#"
-  featured: true
-
-- title: Mekong Delta Flood Risk
-  category: research
-  year: 2024
-  description: Spatial modeling of seasonal inundation and displacement risk across the delta region.
-  image: mekong-flood.jpg
-  link: "#"
-  featured: true
-
 - title: Why Maps Lie
   category: writing
-  year: 2023
-  description: On projection, power, and the politics of cartographic representation.
+  year: 2025
+  description: 
   image:
-  link: /writing/2023/why-maps-lie/
+  link: /writing/2025/Can spatial experiences and perception affect an individuals' public mode choice? (Part 1_Spatial analysis)/
   featured: true
 
 - title: HCM City Growth Patterns
